@@ -16,7 +16,7 @@ export default function baixaDadosTenis():
 }
 
 function chamaApi() {
-  return fetch("/db.json")
+  return fetch("./db.json")
     .then((res) => {
       if (!res.ok) {
         throw new Error(`${res.status}: ${res.statusText}`);
