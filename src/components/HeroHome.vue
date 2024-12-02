@@ -29,7 +29,9 @@
 export default {
   methods: {
     moveATela() {
-      const containderCard = document.querySelector("#containerCard");
+      const containderCard = document.querySelector(
+        "#containerCard"
+      ) as HTMLInputElement;
 
       containderCard.scrollIntoView({ behavior: "smooth", block: "start" });
     },
