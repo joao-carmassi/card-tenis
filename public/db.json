@@ -1,0 +1,48 @@
+{
+  "dadosTenis": [
+    {
+      "nome": "Tenis 1",
+      "descricao": "Tênis confortável para uso diário."
+    },
+    {
+      "nome": "Tenis 2",
+      "descricao": "Tênis esportivo ideal para corridas."
+    },
+    {
+      "nome": "Tenis 3",
+      "descricao": "Tênis casual com design moderno."
+    },
+    {
+      "nome": "Tenis 4",
+      "descricao": "Tênis leve, perfeito para caminhadas."
+    },
+    {
+      "nome": "Tenis 5",
+      "descricao": "Tênis resistente para trilhas."
+    },
+    {
+      "nome": "Tenis 6",
+      "descricao": "Tênis com ótimo amortecimento para treinos."
+    },
+    {
+      "nome": "Tenis 7",
+      "descricao": "Tênis elegante para ocasiões sociais."
+    },
+    {
+      "nome": "Tenis 8",
+      "descricao": "Tênis esportivo com boa ventilação."
+    },
+    {
+      "nome": "Tenis 9",
+      "descricao": "Tênis robusto, ideal para atividades ao ar livre."
+    },
+    {
+      "nome": "Tenis 10",
+      "descricao": "Tênis versátil para diversos esportes."
+    },
+    {
+      "nome": "Tenis 11",
+      "descricao": "Tênis confortável e estiloso para o dia a dia."
+    }
+  ]
+}
